@@ -1,6 +1,6 @@
 # Drone Imager: IBM PowerAI Vision
- Copyright (C) 2019 SwastikNath Group LLC
- Copyright (C) 2019 PositionX Machines Research LLC
+<p> Copyright (C) 2019 SwastikNath Group LLC</p>
+<p> Copyright (C) 2019 PositionX Machines Research LLC</p>
 
 For Details on how to use this base model, refer to the Medium Discussion <h3>Creating AI-powered computer vision applications in no time with IBM PowerAI Vision.</h3>
 
