@@ -12,6 +12,6 @@
 <h3> Link to Access the Towards Data Science Article by Swastik: </h3>
 <a href = "https://towardsdatascience.com/creating-ai-powered-computer-vision-applications-in-no-time-with-ibm-powerai-vision-33ebe49f4f2e" > Access the Article </a>
 
-
+<spacer type="block" width="100" height="1000" align>=============================================================== </spacer>
 <p><b>Copyright (C) 2019 SwastikNath Group </b></p>
 <p><b>Copyright (C) 2019 PositionX Machines Research LLC</b></p>
